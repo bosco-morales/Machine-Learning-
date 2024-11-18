@@ -1,0 +1,1 @@
+This repository contains a collection of Jupyter Notebooks that demonstrate three essential machine learning algorithms: Linear Regression, Naive Bayes, and Binary Logistic Regression. Each notebook provides an overview of the algorithm, implementation details, and examples to guide users through the theory and practical applications of each model. 
